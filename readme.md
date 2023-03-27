@@ -12,6 +12,6 @@ Créer un serveur JEU GRPC :
         . Jeu terminé, le gagnant est ""Numéro du gagnant"
 </pre>
 
- <h1> 1- game Server </h1>
+ <h4> 1- game Server </h4>
  
 ![Screenshot 2023-03-27 221841](https://user-images.githubusercontent.com/85403056/228087079-207b173f-7c72-4067-bca0-1c6380ae3aeb.png)

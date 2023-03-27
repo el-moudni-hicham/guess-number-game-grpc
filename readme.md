@@ -13,8 +13,8 @@ Créer un serveur JEU GRPC :
  
  1- game Server
  
-![Screenshot 2023-03-27 221841](https://user-images.githubusercontent.com/85403056/228087007-a5e44e41-dbc2-44da-9877-51af3c1cb52e.png)
 
  </pre>
 
 
+![Screenshot 2023-03-27 221841](https://user-images.githubusercontent.com/85403056/228087079-207b173f-7c72-4067-bca0-1c6380ae3aeb.png)

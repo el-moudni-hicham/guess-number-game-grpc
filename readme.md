@@ -1,5 +1,7 @@
-# Enonce 
+# Rapport
+
 <pre>
+<h3> Enoncé </h3>
 
 Créer un serveur JEU GRPC :
      - Au démarrage le serveur choisit un nombre aléatoire entre 1 et 1000. 
@@ -10,11 +12,7 @@ Créer un serveur JEU GRPC :
         . BRAVO vous avez gagné et envoyer le gagnant aux clients
         . Jeu terminé, le gagnant est ""Numéro du gagnant"
 
- 
+</pre>
+
  1- game Server
- 
-
- </pre>
-
-
 ![Screenshot 2023-03-27 221841](https://user-images.githubusercontent.com/85403056/228087079-207b173f-7c72-4067-bca0-1c6380ae3aeb.png)

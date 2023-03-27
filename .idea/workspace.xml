@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e032ef10-d6dd-438c-a198-42534a0dc423" name="Changes" comment="" />
+    <list default="true" id="e032ef10-d6dd-438c-a198-42534a0dc423" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +27,7 @@
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="aca917fd-e665-4bbb-95f2-3ab05ecbb39b" />
-        <option name="url" value="https://github.com/el-moudni-hicham/guess-number-game-grpc.git" />
+        <option name="url" value="https://github.com/el-moudni-hicham/guess-number-game-grpc" />
       </UrlAndAccount>
     </option>
   </component>
@@ -80,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679955793752</updated>
-      <workItem from="1679955795224" duration="1713000" />
+      <workItem from="1679955795224" duration="2226000" />
     </task>
     <servers />
   </component>

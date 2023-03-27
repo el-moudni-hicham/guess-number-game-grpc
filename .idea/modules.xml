@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/game-grpc-client/game-grpc-client.iml" filepath="$PROJECT_DIR$/game-grpc-client/game-grpc-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/guess-number-game-grpc.iml" filepath="$PROJECT_DIR$/.idea/guess-number-game-grpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/game-grpc-server/server.iml" filepath="$PROJECT_DIR$/game-grpc-server/server.iml" />
+    </modules>
+  </component>
+</project>

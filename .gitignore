@@ -1,0 +1,3 @@
+game-grpc-client/target/
+game-grpc-server/target/
+target/

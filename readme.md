@@ -9,7 +9,7 @@ Créer un serveur JEU GRPC :
         . Votre nombre est plus grand
         . Votre nombre est plus petit
         . BRAVO vous avez gagné et envoyer le gagnant aux clients
-        . Jeu terminé, le gagnant est ""Numéro du gagnant"
+        . Jeu terminé, le gagnant est "Numéro du gagnant"
 </pre>
 
 <h4> 1- Lancement de game server </h4>
